@@ -1,0 +1,27 @@
+{
+  "name": "CyProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai-sorted": "^0.2.0",
+    "cypress": "^7.5.0"
+  },
+  "devDependencies": {
+    "cypress-localstorage-commands": "^1.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvasilyeva/CyProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvasilyeva/CyProject/issues"
+  },
+  "homepage": "https://github.com/vvasilyeva/CyProject#readme"
+}
